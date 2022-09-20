@@ -20,5 +20,5 @@ https://snack.expo.dev/@squad_social/fetch-example
 
 ## tips
 - follow the React Native docs if you don't know RN
-- you ca use the snack.expo as a headstart
+- you can use the snack.expo as a headstart
 - you don't need to reproduce the figma design exactly
